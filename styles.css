@@ -1,0 +1,20 @@
+
+
+
+body {
+    height: 1000px;
+    width: auto;
+}
+
+.canvasContainer {
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-flow: column nowrap;
+
+    border: 1px solid black;
+}
+
+.colored {
+    background-color: black;
+}
